@@ -86,4 +86,4 @@
 	if (message.content == '!credits')
 		message.reply('NULLED: PolygonNL DISCORD: PolygonNL#4921 BLACKHAT DEV WILL DO ANY JOB FOR THE RIGHT PRICE LEGAL OR ILLEGAL, 150+ WPM TYPESPEED FAST JOBS.');
 });
-bot.login('NDk1MDMzMTk1ODg5MTY0MzA4.Do8S9w.CDbnhlryAvzGrqpQz09iKbz8fXc');
+bot.login('NTg1NDg1OTI4MTAxODM4ODU5.XPaaVw.XlqtDifq_wNEaog6ZcqMo9_S8Nw');
